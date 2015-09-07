@@ -27,7 +27,7 @@ The 2nd Transcendental Ruby Imbroglio Contest for rubyKaigi （第二回 超絶�
 * Matz Ruby Implementation (以下 MRI) 2.2 で動くことを推奨する。
 * MRI 以外の実装 (JRuby や Rubinius など) を使っても構わない。
 * よりストイックで、様々な環境でも動き、笑いのある作品が評価されやすい。
-* 過去の [TRICK](https://github.com/tric/trick2013) や [IOCCC](http://ioccc.org). の勝者を研究することを推奨する。
+* 過去の [TRICK](https://github.com/tric/trick2013) や [IOCCC](http://ioccc.org) の勝者を研究することを推奨する。
 * gem ライブラリを require してもよい。
   * ただし、その分面白い作品であることが期待され、審査基準は厳しくなる。
   * サイズ制限を回避するために gem を使用することは強く非推奨。
@@ -82,14 +82,15 @@ ABC 順。
 * Koichiro Eto ([@eto][eto]. Media Artist. [Chairman at NicoNicoGakkai Beta][niconicogakkai].)
 * Shinichiro Hamaji ([@shinh][shinh]. [The admin of anarchy golf][golf]. [IOCCC winner][ioccc_shinh].)
 * Yutaka Hara ([@yhara][yhara]. [The author of Japanese esolang book][esolangbook].)
+* Yukihiro Matsumoto (a.k.a. matz. [@yukihiro_matz][yukihiro_matz]. The creator of Ruby.)
 * Sun Park (a.k.a. leonid. [The 1st super Ruby golfer][golfers].)
 * Hirofumi Watanabe ([@eban][eban]. Ruby committer. [The 2nd super Ruby golfer][golfers].)
-* ...
 
 [mametter]: https://twitter.com/mametter
 [eto]: https://twitter.com/eto
 [shinh]: https://twitter.com/shinh
 [yhara]: https://twitter.com/yhara
+[yukihiro_matz]: https://twitter.com/yukihiro_matz
 [eban]: https://twitter.com/eban
 [ioccc_endoh]: http://www.ioccc.org/winners.html#Yusuke_Endoh
 [ioccc_shinh]: http://www.ioccc.org/winners.html#Shinichiro_Hamaji

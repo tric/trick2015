@@ -83,14 +83,15 @@ Alphabetical order.
 * Koichiro Eto ([@eto][eto]. Media Artist. [Chairman at NicoNicoGakkai Beta][niconicogakkai].)
 * Shinichiro Hamaji ([@shinh][shinh]. [The admin of anarchy golf][golf]. [IOCCC winner][ioccc_shinh].)
 * Yutaka Hara ([@yhara][yhara]. [The author of Japanese esolang book][esolangbook].)
+* Yukihiro Matsumoto (a.k.a. matz. [@yukihiro_matz][yukihiro_matz]. The creator of Ruby.)
 * Sun Park (a.k.a. leonid. [The 1st super Ruby golfer][golfers].)
 * Hirofumi Watanabe ([@eban][eban]. Ruby committer. [The 2nd super Ruby golfer][golfers].)
-* ...
 
 [mametter]: https://twitter.com/mametter
 [eto]: https://twitter.com/eto
 [shinh]: https://twitter.com/shinh
 [yhara]: https://twitter.com/yhara
+[yukihiro_matz]: https://twitter.com/yukihiro_matz
 [eban]: https://twitter.com/eban
 [ioccc_endoh]: http://www.ioccc.org/winners.html#Yusuke_Endoh
 [ioccc_shinh]: http://www.ioccc.org/winners.html#Shinichiro_Hamaji
