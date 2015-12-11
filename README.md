@@ -38,48 +38,47 @@ These are not strict rules but hints or suggestions. You can ignore them but we'
 
 * 8th Sep.  2015: contest open
 * 31st Oct. 2015: submission deadline
-* 11th-13th Dec. 2015: result announcement (in RubyKaigi 2015, if accepted)
-
-
-## How to submit
-
-Your submission must consist of the following files:
-
-* `entry.rb`
-* `remarks.markdown`
-* `authors.markdown`
-* `Gemfile` and `Gemfile.lock` (if you user any gem library)
-* data files (if any)
-
-`remarks.markdown` must include the following information:
-
-* Ruby implementation, version, platform that you use
-  (it is a good idea to copy and paste the output of `ruby -v`)
-* How to run
-
-`authors.markdown` must include the following information (and the `remarks.markdown` must NOT have them):
-
-* Your name (you can use handle)
-* ccTLD of your country/region
-
-Compress your entry as a zip file called entry.zip and send it to `trick.submit at gmail.com` as an attachment.
-
-* You must include the words `TRICK 2015 submission` in the subject of your email.
-* See an example of [entry.zip](entry.zip) that attached in this page.
-
-If you have any question, please open a ticket in this repository, or send an e-mail to `trick.submit at gmail.com`.
+* 11th Dec. 2015: result announcement (in RubyKaigi 2015)
 
 
 ## Winners
 
-TBA.
+Here are the awards and authors for the winning entries of TRICK 2015.
+
+* Judges' awards
+  * "Most inconsistent" - leonid award
+    * Koichi Sasada (ko1)
+  * "Most illusionistic" - eto award
+    * Don Yang
+  * "Best document" - eban award
+    * yoshi-taka
+  * "Most timely" - mame award
+    * Koichi Sasada (ko1)
+  * "Matz Lisp award" - matz award
+    * Kazuki Tsujimoto
+  * "Most fragile" - shinh award
+    * NAKAMURA Usaku
+  * "Most beautiful pattern" - yhara award
+    * Shinichiro Hamaji
+
+* Top five awards
+  * "Most general solver" - 5th prize
+    * Keisuke Nakano
+  * "Least general solver" - 4th prize
+    * Benoit Daloze (eregon)
+  * "Doubling amphisbaena award" - **Bronze award**
+    monae (@monae, jp)
+  * "Most unreadable ALU" - **Silver award**
+    * Keisuke Nakano
+  * "Best piphilology" - **Gold award**
+    * kinaba
 
 
 ## Judges
 
 Alphabetical order.
 
-* Yusuke Endoh ([@mametter][mametter]. Ruby committer. [IOCCC winner][ioccc_endoh].)
+* Yusuke Endoh ([@mametter][mametter]. Ruby committer. [The world's No.1 IOCCC player][ioccc_endoh].)
 * Koichiro Eto ([@eto][eto]. Media Artist. [Chairman at NicoNicoGakkai Beta][niconicogakkai].)
 * Shinichiro Hamaji ([@shinh][shinh]. [The admin of anarchy golf][golf]. [IOCCC winner][ioccc_shinh].)
 * Yutaka Hara ([@yhara][yhara]. [The author of Japanese esolang book][esolangbook].)

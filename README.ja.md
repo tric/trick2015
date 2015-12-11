@@ -38,47 +38,46 @@ The 2nd Transcendental Ruby Imbroglio Contest for rubyKaigi （第二回 超絶�
 
 * 2015 年 9 月 8 日: コンテスト告知
 * 2015 年 10 月 31 日: 応募締め切り
-* 2015 年 12 月 11-13 日: 結果発表（RubyKaigi 2015にて。ただし応募が通れば）
+* 2015 年 12 月 11 日: 結果発表（RubyKaigi 2015にて）
 
-
-## 応募方法
-
-投稿は以下を含むこと。
-
-* `entry.rb`
-* `remarks.markdown`
-* `authors.markdown`
-* `Gemfile` and `Gemfile.lock` （gem を使う場合）
-* data files （もしあれば）
-
-`remarks.markdown` は以下の情報を含むこと。日本語可。
-
-* 使用した Ruby 処理系およびバージョン、プラットフォーム (`ruby -v` の出力をコピペするとよい)
-* 実行方法
-
-`authors.markdown` は以下の情報を含むこと。これらの情報は `remarks.markdown` には含めないこと。
-
-* 氏名 (ハンドルネーム可、英語での表記を付けてください)
-* あなたの国・地域の ccTLD
-
-作品を entry.zip という名前の zip ファイルに圧縮し、`trick.submit at gmail.com` に添付して送ること。
-
-* email の件名に `TRICK 2015 submission` という文字列を含めてください。
-* サンプルの [entry.zip](entry.zip) を参考にしてください。
-
-質問があれば、このリポジトリにチケットを作るか、`trick.submit at gmail.com` にメールを送ってください。
 
 
 ## 入賞者
 
-TBA.
+* Judges' awards
+  * "Most inconsistent" - leonid award
+    * Koichi Sasada (ko1)
+  * "Most illusionistic" - eto award
+    * Don Yang
+  * "Best document" - eban award
+    * yoshi-taka
+  * "Most timely" - mame award
+    * Koichi Sasada (ko1)
+  * "Matz Lisp award" - matz award
+    * Kazuki Tsujimoto
+  * "Most fragile" - shinh award
+    * NAKAMURA Usaku
+  * "Most beautiful pattern" - yhara award
+    * Shinichiro Hamaji
+
+* Top five awards
+  * "Most general solver" - 5th prize
+    * Keisuke Nakano
+  * "Least general solver" - 4th prize
+    * Benoit Daloze (eregon)
+  * "Doubling amphisbaena award" - **Bronze award**
+    monae (@monae, jp)
+  * "Most unreadable ALU" - **Silver award**
+    * Keisuke Nakano
+  * "Best piphilology" - **Gold award**
+    * kinaba
 
 
 ## 審査員
 
 ABC 順。
 
-* Yusuke Endoh ([@mametter][mametter]. Ruby committer. [IOCCC winner][ioccc_endoh].)
+* Yusuke Endoh ([@mametter][mametter]. Ruby committer. [The world's No.1 IOCCC player][ioccc_endoh].)
 * Koichiro Eto ([@eto][eto]. Media Artist. [Chairman at NicoNicoGakkai Beta][niconicogakkai].)
 * Shinichiro Hamaji ([@shinh][shinh]. [The admin of anarchy golf][golf]. [IOCCC winner][ioccc_shinh].)
 * Yutaka Hara ([@yhara][yhara]. [The author of Japanese esolang book][esolangbook].)
