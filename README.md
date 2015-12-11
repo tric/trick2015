@@ -67,7 +67,7 @@ Here are the awards and authors for the winning entries of TRICK 2015.
   * "Least general solver" - 4th prize
     * Benoit Daloze (eregon)
   * "Doubling amphisbaena award" - **Bronze award**
-    monae (@monae, jp)
+    * monae (@monae, jp)
   * "Most unreadable ALU" - **Silver award**
     * Keisuke Nakano
   * "Best piphilology" - **Gold award**
